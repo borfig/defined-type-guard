@@ -1,6 +1,6 @@
 {
   "name": "defined-type-guard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A TypeScript Type-Guard for Filtering out undefined Values",
   "main": ".",
   "files": [
